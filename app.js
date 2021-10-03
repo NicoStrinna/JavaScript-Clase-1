@@ -5,9 +5,9 @@ console.log("Apellido:" + apellidoIngresado);
 let edadIngresado = prompt("Ingrese su edad");
 console.log("Edad:" + edadIngresado + "años");
 
-alert("Hola" +""+ (nombreIngresado) +""+ "hagamos una cuenta");
+alert("Hola" +" "+ (nombreIngresado) +" "+ "hagamos una cuenta");
 
-let numeroUno = prompt("Ingresa el primero número");
+let numeroUno = prompt("Ingresa el primer número");
 let numeroDos = prompt("Ingresa el segundo número");
 
 console.log(typeof numeroUno);
